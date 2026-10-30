@@ -7,6 +7,7 @@ st.set_page_config(
     layout="wide"
 )
 
+st.image("logo.png",width=350)
 # العنوان الرئيسي والشعار
 st.title("⚖️ منصة مودة والتوفيق")
 st.subheader("لخلق توازن عادل، وتوفيق دائم في عالم العمل")
